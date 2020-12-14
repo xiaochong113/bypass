@@ -1,7 +1,7 @@
 # EMBY
-DOMAIN,emby.plusmedia.site
-DOMAIN,bgp.emby.mickeycloud.com
-DOMAIN,emby.prprcloud.com
+DOMAIN-SUFFIX,emby.plusmedia.site
+DOMAIN-SUFFIX,bgp.emby.mickeycloud.com
+DOMAIN-SUFFIX,emby.prprcloud.com
 DOMAIN-SUFFIX,xeton.dev
 DOMAIN-SUFFIX,emby.wtf
 
