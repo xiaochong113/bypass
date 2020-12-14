@@ -1,8 +1,8 @@
 # 指定的域名
-DOMAIN-SUFFIX,fast.com
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,speed.cloudflare.com
-DOMAIN,v2rayssr.com
-DOMAIN,fpie2.com
-DOMAIN,video.3p3942.cn
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,fpie2.com
+DOMAIN-SUFFIX,video.3p3942.cn
