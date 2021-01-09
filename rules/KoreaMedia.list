@@ -1,7 +1,7 @@
 # Korea Media
+DOMAIN-SUFFIX,kr
 DOMAIN-KEYWORD,popkontv
 DOMAIN-SUFFIX,popkontv.com
 DOMAIN-SUFFIX,popkontv.kr
-DOMAIN-SUFFIX,co.kr
-DOMAIN-SUFFIX,pandatv.co.kr
-DOMAIN-SUFFIX,pandalive.co.kr
+DOMAIN-KEYWORD,pandatv
+DOMAIN-KEYWORD,pandalive
