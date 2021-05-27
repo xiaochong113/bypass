@@ -1,4 +1,7 @@
 # EMBY
+DOMAIN-SUFFIX,plusmedia.site
+DOMAIN-SUFFIX,xeton.dev
+DOMAIN-SUFFIX,emby.prprcloud.com
 DOMAIN,raw-v1.emby.wtf
 DOMAIN,raw-v1b.emby.wtf
 DOMAIN,raw-ac.emby.wtf
