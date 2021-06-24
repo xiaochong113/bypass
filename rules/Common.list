@@ -3,3 +3,11 @@ DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN,raw-v1.emby.wtf
+DOMAIN,raw-v1b.emby.wtf
+DOMAIN,raw-v4.emby.wtf
+DOMAIN,raw-v4b.emby.wtf
+DOMAIN,raw-ac.emby.wtf
+DOMAIN,raw-k.emby.wtf
+DOMAIN,dmm.emby.wtf
+DOMAIN-SUFFIX,emby.ltd
