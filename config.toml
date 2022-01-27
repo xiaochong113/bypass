@@ -12,11 +12,11 @@ clash_rule_base = "base/forcerule.yml"
 #quanx_rule_base = "base/quanx.conf"
 
 # Options for adding emojis
-#add_emoji = true
-#remove_old_emoji = true
+add_emoji = true
+remove_old_emoji = true
 
 # Options for filtering nodes
-#include_remarks = []
+include_remarks = []
 #exclude_remarks = []
 
 [[custom_groups]]
@@ -24,6 +24,11 @@ import = "snippets/groups_forcerule.toml"
 
 #[[rulesets]]
 #import = ""
+
+[[emojis.emoji]]
+#match = '(流量|时间|应急)'
+#emoji = '🏳️‍🌈'
+import = ""
 
 [[template_args]]
 #key = "clash.dns.port"
