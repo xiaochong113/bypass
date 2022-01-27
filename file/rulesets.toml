@@ -7,79 +7,79 @@
 [[rulesets]]
 group = "🌏 Proxynd"
 ruleset = "https://raw.githubusercontent.com/xiaochong113/bypass/master/rules/Common.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "🌏 Proxynd"
 ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "🌏 Proxynd"
 ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "💞 SocialM"
 ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "💞 SocialM"
 ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Instagram/Instagram.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "💞 SocialM"
 ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "🔮 Google®"
 ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "🔮 Google®"
 ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "📺 EmbyVip"
 ruleset = "https://raw.githubusercontent.com/xiaochong113/bypass/master/rules/EmbyVip.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "🎥 EmbyDmm"
 ruleset = "https://raw.githubusercontent.com/xiaochong113/bypass/master/rules/EmbyDmm.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "📽️ NetFlix"
 ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "DIRECT"
 ruleset = "https://raw.githubusercontent.com/xiaochong113/bypass/master/rules/direct.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
 group = "DIRECT"
 ruleset = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Download/Download.yaml"
-type = "clash-classic-ruleset"
+type = "clash-classic"
 interval = 86400
 
 [[rulesets]]
