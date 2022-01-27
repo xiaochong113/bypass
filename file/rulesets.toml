@@ -85,19 +85,16 @@ interval = 86400
 [[rulesets]]
 group = "REJECT"
 ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list"
-type = "clash-classic-ruleset"
 interval = 86400
 
 [[rulesets]]
 group = "REJECT"
 ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list"
-type = "clash-classic-ruleset"
 interval = 86400
 
 [[rulesets]]
 group = "REJECT"
 ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list"
-type = "clash-classic-ruleset"
 interval = 86400
 
 [[rulesets]]
