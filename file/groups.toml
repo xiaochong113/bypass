@@ -1,4 +1,10 @@
 # [[custom_groups]]
+# name = "Proxy"
+# type = "select"
+# rule = [".*", "[]DIRECT"]
+# disable_udp = false
+
+# [[custom_groups]]
 # name = "Auto"
 # type = "url-test"
 # rule = [".*"]
@@ -6,12 +12,6 @@
 # interval = 300
 # tolerance = 150
 # lazy = true
-
-# [[custom_groups]]
-# name = "Proxy"
-# type = "select"
-# rule = [".*", "[]DIRECT"]
-# disable_udp = false
 
 # [[custom_groups]]
 # name = "LoadBalance"
