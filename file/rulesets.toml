@@ -105,5 +105,5 @@ group = "DIRECT"
 ruleset = "[]GEOIP,CN"
 
 [[rulesets]]
-group = "🐟 漏网之鱼"
+group = "🌏 Proxynd"
 ruleset = "[]MATCH"
