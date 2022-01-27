@@ -1,7 +1,7 @@
 version = 1
 [custom]
-enable_rule_generator = false
-overwrite_original_rules = false
+enable_rule_generator = true
+overwrite_original_rules = true
 
 # Options for custom base configuration file
 clash_rule_base = "base/forcerule.yml"
@@ -16,19 +16,22 @@ add_emoji = true
 remove_old_emoji = true
 
 # Options for filtering nodes
-include_remarks = []
+include_remarks = ["(广港IEPL|沪日|沪韩|jx2azhk|SS|懒人|新加坡 0[12]|台湾.*\^)"]
 #exclude_remarks = []
 
-[[custom_groups]]
-import = "snippets/groups_forcerule.toml"
+[[rulesets]]
+import = "https://raw.githubusercontent.com/xiaochong113/bypass/master/file/rulesets.toml"
 
-#[[rulesets]]
-#import = ""
+[[custom_groups]]
+import = "https://raw.githubusercontent.com/xiaochong113/bypass/master/file/groups.toml"
+
+[[node_pref.rename_node]]
+import = "https://raw.githubusercontent.com/xiaochong113/bypass/master/file/rename_node.toml"
 
 [[emojis.emoji]]
 #match = '(流量|时间|应急)'
 #emoji = '🏳️‍🌈'
-import = ""
+import = "https://raw.githubusercontent.com/xiaochong113/bypass/master/file/emoji.toml"
 
 [[template_args]]
 #key = "clash.dns.port"
