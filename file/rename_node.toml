@@ -1,0 +1,3 @@
+[[rename_node]]
+match = "中国"
+replace = "中"
