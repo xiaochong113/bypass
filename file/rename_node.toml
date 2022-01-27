@@ -25,16 +25,16 @@ match = "!!GROUPID=1!!新加坡.*SS"
 replace = "新加坡ISL"
 
 [[rename_node]]
-match = ""
-replace = ""
+match = "!!GROUPID=1!!日本.*SS"
+replace = "日本ISL"
 
 [[rename_node]]
-match = ""
-replace = ""
+match = "!!GROUPID=1!!美国.*SS"
+replace = "美国ISL"
 
 [[rename_node]]
-match = ""
-replace = ""
+match = "!!GROUPID=1!!台湾.*SS"
+replace = "台湾ISL"
 
 # 重命名第三个订阅地址的节点名称
 [[rename_node]]
