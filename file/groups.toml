@@ -1,3 +1,26 @@
+# [[custom_groups]]
+# name = "Auto"
+# type = "url-test"
+# rule = [".*"]
+# url = "http://www.gstatic.com/generate_204"
+# interval = 300
+# tolerance = 150
+# lazy = true
+
+# [[custom_groups]]
+# name = "Proxy"
+# type = "select"
+# rule = [".*", "[]DIRECT"]
+# disable_udp = false
+
+# [[custom_groups]]
+# name = "LoadBalance"
+# type = "load-balance"
+# rule = [".*", "[]Proxy", "[]DIRECT"]
+# interval = 100
+# strategy = "consistent-hashing"
+# url = "http://www.gstatic.com/generate_204"
+
 [[custom_groups]]
 name = "🌏 Proxynd"
 type = "select"
