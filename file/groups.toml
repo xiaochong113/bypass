@@ -11,7 +11,7 @@ rule = ["!!GROUPID=0!!(沪日IPLC)", "!!GROUPID=1!!(日本)"]
 [[custom_groups]]
 name = "🔮 Google®"
 type = "select"
-rule = ["[]♻️ 自动选择", "[]🎯 全球直连"]
+rule = ["!!GROUPID=0!!(广港IEPLS)", "!!GROUPID=1!!(香港ISLN)"]
 
 [[custom_groups]]
 name = "📺 EmbyVip"
