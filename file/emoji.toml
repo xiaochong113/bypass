@@ -1,28 +1,28 @@
-[[emoji]]
+[[emojis.emoji]]
 match = "(懒人)"
 emoji = "🦥"
 
-[[emoji]]
+[[emojis.emoji]]
 match = "(香港|HK|沪港|广港|HGC|azhk)"
 emoji = "🇭🇰"
 
-[[emoji]]
+[[emojis.emoji]]
 match = "(台湾|TPE|HiNet|TW)"
 emoji = "🇹🇼"
 
-[[emoji]]
+[[emojis.emoji]]
 match = "(日本|JP|沪日|湘日)"
 emoji = "🇯🇵"
 
-[[emoji]]
+[[emojis.emoji]]
 match = "(韩国|沪韩)"
 emoji = "🇰🇷"
 
-[[emoji]]
+[[emojis.emoji]]
 match = "(新加坡|狮城|SG|OCI3)"
 emoji = "🇸🇬"
 
-[[emoji]]
+[[emojis.emoji]]
 match = "(美国|US|沪美)"
 emoji = "🇺🇸"
 
