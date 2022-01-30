@@ -26,11 +26,12 @@ import = "https://raw.githubusercontent.com/xiaochong113/bypass/master/file/rule
 import = "https://raw.githubusercontent.com/xiaochong113/bypass/master/file/groups.toml"
 
 [[node_pref.rename_node]]
-import = "https://raw.githubusercontent.com/xiaochong113/bypass/master/file/rename_node.toml"
+match = "\s\[.*\]"
+replace = ""
 
 [[emojis.emoji]]
-match = '懒人'
-emoji = '🦥'
+match = "懒人"
+emoji = "🦥"
 
 
 [[template_args]]
