@@ -1,42 +1,42 @@
 # 重命名第一个订阅地址的节点名称
 [[rename_node]]
-match = '!!GROUPID=0!!广港.*5x.*\]'
+match = '广港.*5x.*\]'
 replace = "广港IEPLS"
 
 [[rename_node]]
-match = '!!GROUPID=0!!\s\[.*\]'
+match = '\s\[.*\]'
 replace = ""
 
 # 重命名第二个订阅地址的节点名称
 [[rename_node]]
-match = '!!GROUPID=1!!香港丨专线丨HGC丨SS'
+match = '香港丨专线丨HGC丨SS'
 replace = "香港ISL"
 
 [[rename_node]]
-match = '!!GROUPID=1!!香港丨专线丨NTT丨SS'
+match = '香港丨专线丨NTT丨SS'
 replace = "香港HGC"
 
 [[rename_node]]
-match = '!!GROUPID=1!!香港丨专线丨HKBN丨SS'
+match = '香港丨专线丨HKBN丨SS'
 replace = "香港ISLN"
 
 [[rename_node]]
-match = '!!GROUPID=1!!新加坡.*SS'
+match = '新加坡.*SS'
 replace = "新加坡ISL"
 
 [[rename_node]]
-match = '!!GROUPID=1!!日本.*SS'
+match = '日本.*SS'
 replace = "日本ISL"
 
 [[rename_node]]
-match = '!!GROUPID=1!!美国.*SS'
+match = '美国.*SS'
 replace = "美国ISL"
 
 [[rename_node]]
-match = '!!GROUPID=1!!台湾.*SS'
+match = '台湾.*SS'
 replace = "台湾ISL"
 
 # 重命名第三个订阅地址的节点名称
 [[rename_node]]
-match = '!!GROUPID=2!!懒人节点\s01'
+match = '懒人节点\s01'
 replace = "懒人节点"
