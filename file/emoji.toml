@@ -1,30 +1,30 @@
 [[emojis.emoji]]
-match = '(懒人)'
-emoji = '🦥'
+match = "(懒人)"
+emoji = "🦥"
 
 [[emojis.emoji]]
-match = '(香港|HK|沪港|广港|HGC|azhk)'
-emoji = '🇭🇰'
+match = "(香港|HK|沪港|广港|HGC|azhk)"
+emoji = "🇭🇰"
 
 [[emojis.emoji]]
-match = '(台湾|TPE|HiNet|TW)'
-emoji = '🇹🇼'
+match = "(台湾|TPE|HiNet|TW)"
+emoji = "🇹🇼"
 
 [[emojis.emoji]]
-match = '(日本|JP|沪日|湘日)'
-emoji = '🇯🇵'
+match = "(日本|JP|沪日|湘日)"
+emoji = "🇯🇵"
 
 [[emojis.emoji]]
-match = '(韩国|沪韩)"
-emoji = '🇰🇷'
+match = "(韩国|沪韩)"
+emoji = "🇰🇷"
 
 [[emojis.emoji]]
-match = '(新加坡|狮城|SG|OCI3)'
-emoji = '🇸🇬'
+match = "(新加坡|狮城|SG|OCI3)"
+emoji = "🇸🇬"
 
 [[emojis.emoji]]
-match = '(美国|US|沪美)'
-emoji = '🇺🇸'
+match = "(美国|US|沪美)"
+emoji = "🇺🇸"
 
 [[emoji]]
 match = "(Ascension|阿森松)"
