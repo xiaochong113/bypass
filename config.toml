@@ -16,7 +16,7 @@ add_emoji = true
 remove_old_emoji = true
 
 # Options for filtering nodes
-include_remarks = ["(广港IEPL|沪日|沪韩|jx2azhk|SS|懒人|新加坡 0[12]|台湾.*\^)"]
+include_remarks = ["广港IEPL|沪日|沪韩|jx2azhk|SS|懒人|新加坡 0[12]|台湾.*\^"]
 #exclude_remarks = []
 
 [[rulesets]]
