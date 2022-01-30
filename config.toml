@@ -29,9 +29,9 @@ import = "https://raw.githubusercontent.com/xiaochong113/bypass/master/file/grou
 import = "https://raw.githubusercontent.com/xiaochong113/bypass/master/file/rename_node.toml"
 
 [[emojis.emoji]]
-#match = '(流量|时间|应急)'
-#emoji = '🏳️‍🌈'
-import = "https://raw.githubusercontent.com/xiaochong113/bypass/master/file/emoji.toml"
+match = '(懒人)'
+emoji = '🦥'
+
 
 [[template_args]]
 #key = "clash.dns.port"
