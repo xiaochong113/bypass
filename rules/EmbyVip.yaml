@@ -20,3 +20,6 @@ payload:
   - DOMAIN,az-v2b.emby.gg
   - DOMAIN,az-v4.emby.gg
   - DOMAIN,az-v4b.emby.gg
+# JMS
+  - DOMAIN,iptv.tvfix.org
+  - DOMAIN,iptv.jmsooo.com
