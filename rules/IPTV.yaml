@@ -1,4 +1,5 @@
 # NAME: IPTV
 # JMS
+payload:
   - DOMAIN,iptv.tvfix.org
   - DOMAIN,iptv.jmsooo.com
