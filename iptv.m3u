@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",CCTV-4K
 http://iptv.tvfix.org/hls/cctv4k.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1
-http://223.110.251.219:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2
+央视#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="",CCTV-1
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+央视#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="",CCTV-2
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228094/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国",CCTV-3
 http://223.110.251.219:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/.m3u8
