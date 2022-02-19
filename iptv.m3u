@@ -195,7 +195,7 @@ http://iptv.tvfix.org/hls/rthk31.m3u8
 http://iptv.tvfix.org/hls/rthk32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK総合ロゴ2020-.png/220px-NHK総合ロゴ2020-.png" group-title="海外",NHK综合
 http://iptv.tvfix.org/hls/nhkg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zh.wikipedia.org/wiki/NHK%E6%95%99%E8%82%B2%E9%A0%BB%E9%81%93#/media/File:NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="海外",NHK教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKEテレロゴ2020-.png/220px-NHKEテレロゴ2020-.png" group-title="海外",NHK教育
 http://iptv.tvfix.org/hls/nhke.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbs.jpg" group-title="海外",TVBS亚洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
