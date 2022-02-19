@@ -41,8 +41,9 @@ http://iptv.tvfix.org/hls/cctv16hd.m3u8
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视高清",CGTN-国际电视台
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
-#EXTINF:-1 tvg-id="021" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视高清",CGTN-纪录
+#EXTINF:-1 tvg-id="021" tvg-name="CGTN" tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtndocumentary.jpg" group-title="央视高清",CGTN-纪录
 http://iptv.tvfix.org/hls/cgtndochd.m3u8
+
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视高清",湖南卫视
 http://iptv.tvfix.org/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视高清",浙江卫视
@@ -94,7 +95,6 @@ http://iptv.tvfix.org/hls/gedocu.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="卫视高清",中国教育1台
 http://iptv.tvfix.org/hls/cetv1hd.m3u8
 
-
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%87%E8%89%BA.png" group-title="地方频道",北京文艺
 http://iptv.tvfix.org/hls/brtv2hd.m3u8
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png" group-title="地方频道",北京科教
@@ -121,6 +121,7 @@ http://iptv.tvfix.org/hls/shdfyshd.m3u8
 http://iptv.tvfix.org/hls/shdspdhd.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="地方频道",上视外语
 http://iptv.tvfix.org/hls/shwypdhd.m3u8
+
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="特色频道",五星体育
 http://iptv.tvfix.org/hls/wxtyhd.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="特色频道",极速汽车
@@ -154,7 +155,6 @@ http://iptv.tvfix.org/hls/xdmtv.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="中数风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="特色频道",风云足球
 http://iptv.tvfix.org/hls/zqhd.m3u8
 
-
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="海外",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="海外",翡翠台(第2声道简体)
@@ -183,21 +183,21 @@ http://iptv.tvfix.org/hls/financenhk.m3u8
 http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="海外",ViuTV 粤语
 http://iptv.tvfix.org/hls/viutv2.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="海外",ViuTV6
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://www.tvyan.com/uploads/dianshi/viutv6.jpg" group-title="海外",ViuTV6
 http://iptv.tvfix.org/hls/viutv6.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="海外",香港国际财经台
 http://iptv.tvfix.org/hls/hkibc.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="海外",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",RTHK31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="海外",RTHK31
 http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",RTHK32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="海外",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NHK综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zh.wikipedia.org/wiki/NHK%E7%B6%9C%E5%90%88%E9%A0%BB%E9%81%93#/media/File:NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="海外",NHK综合
 http://iptv.tvfix.org/hls/nhkg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NHK教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zh.wikipedia.org/wiki/NHK%E6%95%99%E8%82%B2%E9%A0%BB%E9%81%93#/media/File:NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="海外",NHK教育
 http://iptv.tvfix.org/hls/nhke.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",TVBS亚洲台
+#EXTINF:-1 tvg-id="" tvg-name="http://www.tvyan.com/uploads/dianshi/tvbs.jpg" tvg-logo="" group-title="海外",TVBS亚洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="海外",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
@@ -213,41 +213,35 @@ http://iptv.tvfix.org/hls/nhkworld.m3u8
 http://iptv.tvfix.org/hls/nhkworldzh.m3u8
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="海外",tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",瞬间看地球
-http://iptv.tvfix.org/hls/earth.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="海外",美亚电影台(粤语)
 http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="海外",美亚电影台(普通话)
 http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",天映经典(粤语)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cmclassic.jpg" group-title="海外",天映经典(粤语)
 http://iptv.tvfix.org/hls/tyjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",天映经典(普通话)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cmclassic.jpg" group-title="海外",天映经典(普通话)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
 #EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="海外",Animax
 http://iptv.tvfix.org/hls/animax.m3u8
 #EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="海外",Animax(第2声道)
 http://iptv.tvfix.org/hls/animax2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Hands Up Channel
-http://iptv.tvfix.org/hls/kid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Hands Up Channel
-http://iptv.tvfix.org/hls/kid2.m3u8(第2声道)
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Thrill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/thrill.jpg" group-title="海外",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Thrill(第2声道)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/thrill.jpg" group-title="海外",Thrill(第2声道)
 http://iptv.tvfix.org/hls/thrill2.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="海外",TVB经典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",TVB为食台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbweishi.jpg" group-title="海外",TVB为食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",TVB为食台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbweishi.jpg" group-title="海外",TVB为食台(第2声道)
 http://iptv.tvfix.org/hls/tvbws2.m3u8
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="海外",TVB星河(粤语)
 http://iptv.tvfix.org/hls/tvbxh.m3u8
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="海外",TVB星河(普通话)
 http://iptv.tvfix.org/hls/tvbxh2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",TVB功夫台(粤语)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" group-title="海外",TVB功夫台(粤语)
 http://iptv.tvfix.org/hls/tvbkf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",TVB功夫(普通话)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" group-title="海外",TVB功夫(普通话)
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="海外",凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
@@ -261,15 +255,15 @@ http://iptv.tvfix.org/hls/discovery.m3u8
 http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="海外",动物星球(第2声道)
 http://iptv.tvfix.org/hls/animal2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/Love_Nature#/media/File:Love_Nature_TV.png" group-title="海外",Love Nature
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Love Nature(第2声道)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/Love_Nature#/media/File:Love_Nature_TV.png" group-title="海外",Love Nature(第2声道)
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="海外",国家地理
 http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Channel V
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/channelv.jpg" group-title="海外",Channel V
 http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8d/Xing_Kong_Wei_Shi.jpg" group-title="海外",星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Star Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/Star_Sports_(Indian_TV_network)#/media/File:Star_Sports_India_logo1.png" group-title="海外",Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
