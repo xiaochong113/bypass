@@ -193,11 +193,11 @@ http://iptv.tvfix.org/hls/opentv.m3u8
 http://iptv.tvfix.org/hls/rthk31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="海外",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zh.wikipedia.org/wiki/NHK%E7%B6%9C%E5%90%88%E9%A0%BB%E9%81%93#/media/File:NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="海外",NHK综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK総合ロゴ2020-.png/220px-NHK総合ロゴ2020-.png" group-title="海外",NHK综合
 http://iptv.tvfix.org/hls/nhkg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zh.wikipedia.org/wiki/NHK%E6%95%99%E8%82%B2%E9%A0%BB%E9%81%93#/media/File:NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="海外",NHK教育
 http://iptv.tvfix.org/hls/nhke.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="http://www.tvyan.com/uploads/dianshi/tvbs.jpg" tvg-logo="" group-title="海外",TVBS亚洲台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbs.jpg" group-title="海外",TVBS亚洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="海外",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
@@ -255,9 +255,9 @@ http://iptv.tvfix.org/hls/discovery.m3u8
 http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="海外",动物星球(第2声道)
 http://iptv.tvfix.org/hls/animal2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/Love_Nature#/media/File:Love_Nature_TV.png" group-title="海外",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="海外",Love Nature
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/Love_Nature#/media/File:Love_Nature_TV.png" group-title="海外",Love Nature(第2声道)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="海外",Love Nature(第2声道)
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="海外",国家地理
 http://iptv.tvfix.org/hls/natlgeo.m3u8
@@ -265,5 +265,5 @@ http://iptv.tvfix.org/hls/natlgeo.m3u8
 http://iptv.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8d/Xing_Kong_Wei_Shi.jpg" group-title="海外",星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/Star_Sports_(Indian_TV_network)#/media/File:Star_Sports_India_logo1.png" group-title="海外",Star Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/ca/Star_Sports_India_logo.png/200px-Star_Sports_India_logo.png" group-title="海外",Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
