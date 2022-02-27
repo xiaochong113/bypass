@@ -41,7 +41,7 @@ http://iptv.tvfix.org/hls/cctv16hd.m3u8
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtnnews.jpg" group-title="央视高清",CGTN-国际电视台
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
-#EXTINF:-1 tvg-id="021" tvg-name="CGTN" tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtndocumentary.jpg" group-title="央视高清",CGTN-纪录
+#EXTINF:-1 tvg-id=891" tvg-name="CGTN" tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtndocumentary.jpg" group-title="央视高清",CGTN-纪录
 http://iptv.tvfix.org/hls/cgtndochd.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="卫视高清",湖南卫视
@@ -115,7 +115,7 @@ http://iptv.tvfix.org/hls/brtv11hd.m3u8
 http://iptv.tvfix.org/hls/shxwzhhd.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="地方频道",东方影视
 http://iptv.tvfix.org/hls/shdfyshd.m3u8
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/94/Shanghai_City_TV.PNG/200px-Shanghai_City_TV.PNG" group-title="地方频道",上海都市
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方频道",上海都市
 http://iptv.tvfix.org/hls/shdspdhd.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/icshanghai.jpg" group-title="地方频道",上视外语
 http://iptv.tvfix.org/hls/shwypdhd.m3u8
@@ -146,7 +146,7 @@ http://iptv.tvfix.org/hls/chchd.m3u8
 http://iptv.tvfix.org/hls/chctv.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="特色频道",CHC动作电影
 http://iptv.tvfix.org/hls/chcatv.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="特色频道",哈哈炫动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://www.tvyan.com/uploads/dianshi/xdkt.jpg" group-title="特色频道",哈哈炫动
 http://iptv.tvfix.org/hls/hhxdhd.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://www.tvyan.com/uploads/dianshi/jykt.jpg" group-title="特色频道",金鹰卡通
 http://iptv.tvfix.org/hls/jykttv.m3u8
