@@ -21,3 +21,7 @@ DOMAIN,a-v4.emby.gg
 DOMAIN,a-v4b.emby.gg
 #直连
 DOMAIN-SUFFIX,emby.gg
+# 大河马
+DOMAIN,cm.bighippo.tv
+# PLEX
+DOMAIN,azsh-kr.yijun.in
