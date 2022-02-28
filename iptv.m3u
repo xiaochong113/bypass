@@ -203,13 +203,13 @@ http://iptv.tvfix.org/hls/rthk32.m3u8
 http://iptv.tvfix.org/hls/nhkg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/jp-tv/nhk-etv-live.jpg" group-title="海外",NHK教育
 http://iptv.tvfix.org/hls/nhke.m3u8
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbs.jpg" group-title="海外",TVBS亚洲台
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="https://img.isuper.tv/live-tv/tvbs-live.jpg" group-title="海外",TVBS综合台
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://img.isuper.tv/live-tv/tvbs-news-live.jpg" group-title="海外",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://www.tvyan.com/uploads/dianshi/ctinews.jpg" group-title="海外",中天新闻
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="https://img.isuper.tv/live-tv/cti-news-live.jpg" group-title="海外",中天新闻
 http://iptv.tvfix.org/hls/ztxw.m3u8
-#EXTINF:-1 tvg-id="6050" tvg-name="东森综合台" tvg-logo="http://www.tvyan.com/uploads/dianshi/etnews.jpg" group-title="海外",东森新闻
+#EXTINF:-1 tvg-id="6050" tvg-name="东森综合台" tvg-logo="https://img.isuper.tv/live-tv/ebc-news-live.jpg" group-title="海外",东森新闻
 http://iptv.tvfix.org/hls/dsxw.m3u8
 #EXTINF:-1 tvg-id="7110" tvg-name="NHKWorldPremium" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/nhkworldp.png" group-title="海外",NHK WORLD Premium
 http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
