@@ -1,11 +1,7 @@
 # NAME: Emby V服
 # auto入口
-DOMAIN,a-v1j.emby.gg
-DOMAIN,a-ac.emby.gg
-DOMAIN,a-g.emby.gg
-DOMAIN,a-v1.emby.gg
-DOMAIN,a-v1b.emby.gg
-DOMAIN,a-v2.emby.gg
-DOMAIN,a-v2b.emby.gg
-DOMAIN,a-v4.emby.gg
-DOMAIN,a-v4b.emby.gg
+DOMAIN-SUFFIX,emby.gg
+# NAME: EmbyDMM
+DOMAIN,dmm.emby.wtf
+DOMAIN,dmm.emby.gg
+DOMAIN,lei.emby.gg
