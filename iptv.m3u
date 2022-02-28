@@ -157,7 +157,7 @@ http://iptv.tvfix.org/hls/xdmtv.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="特色频道",风云足球
 http://iptv.tvfix.org/hls/zqhd.m3u8
 
-#EXTINF:-1 tvg-id="7106" tvg-name="CNNHeadlineNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNN.png" group-title="海外",CNN新闻
+#EXTINF:-1 tvg-id="7106" tvg-name="CNNHeadlineNews" tvg-logo="https://img.isuper.tv/live-tv/cnn-live.jpg" group-title="海外",CNN新闻
 http://iptv.tvfix.org/hls/cnn.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="海外",BBC新闻
 http://iptv.tvfix.org/hls/bbcnews.m3u8
@@ -199,13 +199,13 @@ http://iptv.tvfix.org/hls/opentv.m3u8
 http://iptv.tvfix.org/hls/rthk31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="海外",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/220px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="海外",NHK综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/jp-tv/nhk-live.jpg" group-title="海外",NHK综合
 http://iptv.tvfix.org/hls/nhkg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png/220px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="海外",NHK教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/jp-tv/nhk-etv-live.jpg" group-title="海外",NHK教育
 http://iptv.tvfix.org/hls/nhke.m3u8
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbs.jpg" group-title="海外",TVBS亚洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbs.jpg" group-title="海外",TVBS新闻台
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://img.isuper.tv/live-tv/tvbs-news-live.jpg" group-title="海外",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
 #EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://www.tvyan.com/uploads/dianshi/ctinews.jpg" group-title="海外",中天新闻
 http://iptv.tvfix.org/hls/ztxw.m3u8
@@ -227,9 +227,9 @@ http://iptv.tvfix.org/hls/mydy2.m3u8
 http://iptv.tvfix.org/hls/tyjd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cmclassic.jpg" group-title="海外",天映经典(普通话)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
-#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="海外",Animax
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="https://img.isuper.tv/live-tv/animax-live.png" group-title="海外",Animax
 http://iptv.tvfix.org/hls/animax.m3u8
-#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="海外",Animax(第2声道)
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="https://img.isuper.tv/live-tv/animax-live.png" group-title="海外",Animax(第2声道)
 http://iptv.tvfix.org/hls/animax2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/thrill.jpg" group-title="海外",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
@@ -255,7 +255,7 @@ http://iptv.tvfix.org/hls/fhzx.m3u8
 http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhdyt.jpg" group-title="海外",凤凰电影
 http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="海外",Discovery
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="https://img.isuper.tv/live-tv/discovery-live.jpg" group-title="海外",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="海外",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
@@ -265,7 +265,7 @@ http://iptv.tvfix.org/hls/animal2.m3u8
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="海外",Love Nature(第2声道)
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="海外",国家地理
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="https://img.isuper.tv/live-tv/national-geographic-live.jpg" group-title="海外",国家地理
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/channelv.jpg" group-title="海外",Channel V
 http://iptv.tvfix.org/hls/channelv.m3u8
