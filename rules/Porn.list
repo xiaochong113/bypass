@@ -2,7 +2,7 @@
 DOMAIN,dmm.emby.wtf
 DOMAIN,dmm.emby.gg
 DOMAIN,lei.emby.gg
-# 韩国直播域名
+# NAME: 韩国直播域名
 DOMAIN-SUFFIX,pandalive.co.kr
 DOMAIN-SUFFIX,neolive.kr
 DOMAIN-SUFFIX,popkontv.kr
