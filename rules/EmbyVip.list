@@ -1,5 +1,4 @@
 # NAME: Emby V服
-# auto入口
 DOMAIN-SUFFIX,emby.gg
 # NAME: EmbyDMM
 DOMAIN,dmm.emby.wtf
