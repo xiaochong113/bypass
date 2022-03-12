@@ -195,21 +195,21 @@ http://iptv.tvfix.org/hls/viutv6.m3u8
 http://iptv.tvfix.org/hls/hkibc.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/hongkongkai.png" group-title="海外",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="海外",RTHK31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/rhk31.jpg" group-title="海外",RTHK31
 http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="海外",RTHK32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/rhk32.jpg" group-title="海外",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/jp-tv/nhk-live.jpg" group-title="海外",NHK综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/nhk-live.jpg" group-title="海外",NHK综合
 http://iptv.tvfix.org/hls/nhkg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/jp-tv/nhk-etv-live.jpg" group-title="海外",NHK教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/nhk-etv-live.jpg" group-title="海外",NHK教育
 http://iptv.tvfix.org/hls/nhke.m3u8
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="https://img.isuper.tv/live-tv/tvbs-live.jpg" group-title="海外",TVBS综合台
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/tvbs-live.jpg" group-title="海外",TVBS综合台
 http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://img.isuper.tv/live-tv/tvbs-news-live.jpg" group-title="海外",TVBS新闻台
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/tvbs-news-live.jpg" group-title="海外",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="https://img.isuper.tv/live-tv/cti-news-live.jpg" group-title="海外",中天新闻
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/cti-news-live.jpg" group-title="海外",中天新闻
 http://iptv.tvfix.org/hls/ztxw.m3u8
-#EXTINF:-1 tvg-id="6050" tvg-name="东森综合台" tvg-logo="https://img.isuper.tv/live-tv/ebc-news-live.jpg" group-title="海外",东森新闻
+#EXTINF:-1 tvg-id="6050" tvg-name="东森综合台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/ebc-news-live.jpg" group-title="海外",东森新闻
 http://iptv.tvfix.org/hls/dsxw.m3u8
 #EXTINF:-1 tvg-id="7110" tvg-name="NHKWorldPremium" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/nhkworldp.png" group-title="海外",NHK WORLD Premium
 http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
@@ -223,17 +223,17 @@ http://iptv.tvfix.org/hls/tvn.m3u8
 http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="海外",美亚电影台(普通话)
 http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cmclassic.jpg" group-title="海外",天映经典(粤语)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/cmclassic.jpg" group-title="海外",天映经典(粤语)
 http://iptv.tvfix.org/hls/tyjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cmclassic.jpg" group-title="海外",天映经典(普通话)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/cmclassic.jpg" group-title="海外",天映经典(普通话)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
-#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="https://img.isuper.tv/live-tv/animax-live.png" group-title="海外",Animax
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/animax-live.png" group-title="海外",Animax
 http://iptv.tvfix.org/hls/animax.m3u8
-#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="https://img.isuper.tv/live-tv/animax-live.png" group-title="海外",Animax(第2声道)
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/animax-live.png" group-title="海外",Animax(第2声道)
 http://iptv.tvfix.org/hls/animax2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/thrill.jpg" group-title="海外",Thrill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/thrill.jpg" group-title="海外",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/thrill.jpg" group-title="海外",Thrill(第2声道)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/thrill.jpg" group-title="海外",Thrill(第2声道)
 http://iptv.tvfix.org/hls/thrill2.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbjingdian.jpg" group-title="海外",TVB经典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
