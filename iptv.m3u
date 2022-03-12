@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="央视高清",CCTV-4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv4k.jpg" group-title="央视高清",CCTV-4K
 http://iptv.tvfix.org/hls/cctv4k.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/cctv1.jpg" group-title="央视高清",CCTV-1综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv1.jpg" group-title="央视高清",CCTV-1综合
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="央视高清",CCTV-1HK综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv1.jpg" group-title="央视高清",CCTV-1HK综合
 http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="央视高清",CCTV-2财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv2.jpg" group-title="央视高清",CCTV-2财经
 http://iptv.tvfix.org/hls/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" group-title="央视高清",CCTV-3综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv3.jpg" group-title="央视高清",CCTV-3综艺
 http://iptv.tvfix.org/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="央视高清",CCTV-4中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv4.jpg" group-title="央视高清",CCTV-4中文国际
 http://iptv.tvfix.org/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title="央视高清",CCTV-5体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv5.jpg" group-title="央视高清",CCTV-5体育
 http://iptv.tvfix.org/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5+.jpg" group-title="央视高清",CCTV-5+体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv5+.jpg" group-title="央视高清",CCTV-5+体育赛事
 http://iptv.tvfix.org/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="央视高清",CCTV-6电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv6.jpg" group-title="央视高清",CCTV-6电影
 http://iptv.tvfix.org/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv7.jpg" group-title="央视高清",CCTV-7国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv7.jpg" group-title="央视高清",CCTV-7国防军事
 http://iptv.tvfix.org/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title="央视高清",CCTV-8电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv8.jpg" group-title="央视高清",CCTV-8电视剧
 http://iptv.tvfix.org/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv9.jpg" group-title="央视高清",CCTV-9纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv9.jpg" group-title="央视高清",CCTV-9纪录
 http://iptv.tvfix.org/hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg" group-title="央视高清",CCTV-10科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv10.jpg" group-title="央视高清",CCTV-10科教
 http://iptv.tvfix.org/hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv11.jpg" group-title="央视高清",CCTV-11戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv11.jpg" group-title="央视高清",CCTV-11戏曲
 http://iptv.tvfix.org/hls/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" group-title="央视高清",CCTV-12社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv12.jpg" group-title="央视高清",CCTV-12社会与法
 http://iptv.tvfix.org/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" group-title="央视高清",CCTV-13新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv13.jpg" group-title="央视高清",CCTV-13新闻
 http://iptv.tvfix.org/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" group-title="央视高清",CCTV-14少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv14.jpg" group-title="央视高清",CCTV-14少儿
 http://iptv.tvfix.org/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="央视高清",CCTV-15音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv15.jpg" group-title="央视高清",CCTV-15音乐
 http://iptv.tvfix.org/hls/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv16.jpg" group-title="央视高清",CCTV奥林匹克频道
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv16.jpg" group-title="央视高清",CCTV奥林匹克频道
 http://iptv.tvfix.org/hls/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv17.jpg" group-title="央视高清",CCTV-17农村农业
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv17.jpg" group-title="央视高清",CCTV-17农村农业
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtnnews.jpg" group-title="央视高清",CGTN-国际电视台
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cgtnnews.jpg" group-title="央视高清",CGTN-国际电视台
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
-#EXTINF:-1 tvg-id=891" tvg-name="CGTN" tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtndocumentary.jpg" group-title="央视高清",CGTN-纪录
+#EXTINF:-1 tvg-id=891" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cgtndocumentary.jpg" group-title="央视高清",CGTN-纪录
 http://iptv.tvfix.org/hls/cgtndochd.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="卫视高清",湖南卫视
