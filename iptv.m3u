@@ -93,33 +93,33 @@ http://iptv.tvfix.org/hls/schd.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/cetv1.jpg" group-title="卫视高清",中国教育1台
 http://iptv.tvfix.org/hls/cetv1hd.m3u8
 
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv2.jpg" group-title="地方频道",北京文艺
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/btv2.jpg" group-title="地方频道",北京文艺
 http://iptv.tvfix.org/hls/brtv2hd.m3u8
-#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv3.jpg" group-title="地方频道",北京科教
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/btv3.jpg" group-title="地方频道",北京科教
 http://iptv.tvfix.org/hls/brtv3hd.m3u8
-#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv4.jpg" group-title="地方频道",北京影视
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/btv4.jpg" group-title="地方频道",北京影视
 http://iptv.tvfix.org/hls/brtv4hd.m3u8
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv5.jpg" group-title="地方频道",北京财经
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/btv5.jpg" group-title="地方频道",北京财经
 http://iptv.tvfix.org/hls/brtv5hd.m3u8
-#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv7.jpg" group-title="地方频道",北京生活
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/btv7.jpg" group-title="地方频道",北京生活
 http://iptv.tvfix.org/hls/brtv7hd.m3u8
-#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv8.jpg" group-title="地方频道",北京青年
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/btv8.jpg" group-title="地方频道",北京青年
 http://iptv.tvfix.org/hls/brtv8hd.m3u8
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv9.jpg" group-title="地方频道",北京新闻
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/btv9.jpg" group-title="地方频道",北京新闻
 http://iptv.tvfix.org/hls/brtv9hd.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://www.tvyan.com/uploads/dianshi/kaku.jpg" group-title="地方频道",北京卡酷动画
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/kaku.jpg" group-title="地方频道",北京卡酷动画
 http://iptv.tvfix.org/hls/brtv10hd.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京冬奥纪实" tvg-logo="http://www.tvyan.com/uploads/dianshi/btvdajs.jpg" group-title="地方频道",北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京冬奥纪实" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/btvdajs.jpg" group-title="地方频道",北京冬奥纪实
 http://iptv.tvfix.org/hls/brtv11hd.m3u8
-#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/stvxw.jpg" group-title="地方频道",上海新闻综合
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/stvxw.jpg" group-title="地方频道",上海新闻综合
 http://iptv.tvfix.org/hls/shxwzhhd.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="地方频道",东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/shdfys.png" group-title="地方频道",东方影视
 http://iptv.tvfix.org/hls/shdfyshd.m3u8
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方频道",上海都市
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/shanghaidushi.jpg" group-title="地方频道",上海都市
 http://iptv.tvfix.org/hls/shdspdhd.m3u8
-#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/icshanghai.jpg" group-title="地方频道",上视外语
+#EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/icshanghai.jpg" group-title="地方频道",上视外语
 http://iptv.tvfix.org/hls/shwypdhd.m3u8
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://www.tvyan.com/uploads/dianshi/dycj.jpg" group-title="地方频道",第一财经
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/dycj.jpg" group-title="地方频道",第一财经
 http://iptv.tvfix.org/hls/shdycjhd.m3u8
 
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg" group-title="特色频道",五星体育
