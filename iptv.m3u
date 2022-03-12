@@ -221,7 +221,7 @@ http://iptv.tvfix.org/hls/nhkworldzh.m3u8
 http://iptv.tvfix.org/hls/tvn.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/meiyamovie.png" group-title="海外",美亚电影台(粤语)
 http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/gt/meiyamovie.png" group-title="海外",美亚电影台(普通话)
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/meiyamovie.png" group-title="海外",美亚电影台(普通话)
 http://iptv.tvfix.org/hls/mydy2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/cmclassic.jpg" group-title="海外",天映经典(粤语)
 http://iptv.tvfix.org/hls/tyjd.m3u8
