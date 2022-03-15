@@ -61,7 +61,7 @@ http://iptv.tvfix.org/hls/cctvnxjkhd.m3u8
 http://iptv.tvfix.org/hls/cctvwhjphd.m3u8
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctvgefwq.jpg" group-title="央视高清",CCTV-高尔夫网球
 http://iptv.tvfix.org/hls/cctvgefwqhd.m3u8
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctvfyzq.ipg" group-title="央视高清",CCTV-风云足球
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctvfyzq.jpg" group-title="央视高清",CCTV-风云足球
 http://iptv.tvfix.org/hls/cctvfyzqhd.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctvystq.jpg" group-title="央视高清",CCTV-央视台球
 http://iptv.tvfix.org/hls/cctvtqhd.m3u8
