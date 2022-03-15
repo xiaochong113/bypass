@@ -182,8 +182,6 @@ http://iptv.tvfix.org/hls/jykttv.m3u8
 http://iptv.tvfix.org/hls/ymkttv.m3u8
 #EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/TSTV/xindongman.png" group-title="特色频道",新动漫
 http://iptv.tvfix.org/hls/xdmtv.m3u8
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/TSTV/fyzq.png" group-title="特色频道",风云足球
-http://iptv.tvfix.org/hls/zqhd.m3u8
 
 #EXTINF:-1 tvg-id="7106" tvg-name="CNNHeadlineNews" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/cnn-live.jpg" group-title="海外频道",CNN新闻
 http://iptv.tvfix.org/hls/cnn.m3u8
