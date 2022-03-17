@@ -190,6 +190,14 @@ http://iptv.tvfix.org/hls/cnn.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/BBCWORLDNEWSASIA.png" group-title="海外频道",BBC新闻
 http://iptv.tvfix.org/hls/bbcnews.m3u8
 
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/hbohd.png" group-title="海外频道",HBO
+http://iptv.tvfix.org/hls/hbo2.m3u8
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/hbohits.png" group-title="海外频道",HBOHits
+http://iptv.tvfix.org/hls/hbohits2.m3u8
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/hbosignature.png" group-title="海外频道",HBOSignature
+http://iptv.tvfix.org/hls/hbosignature2.m3u8
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/hbofamily.png" group-title="海外频道",HBOFamily
+http://iptv.tvfix.org/hls/hbofamily2.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/jade.jpg" group-title="海外频道",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/jade.jpg" group-title="海外频道",翡翠台(第2声道简体)
