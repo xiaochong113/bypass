@@ -189,7 +189,6 @@ http://iptv.tvfix.org/hls/xdmtv.m3u8
 http://iptv.tvfix.org/hls/cnn.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/BBCWORLDNEWSASIA.png" group-title="海外频道",BBC新闻
 http://iptv.tvfix.org/hls/bbcnews.m3u8
-
 #EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/hbohd.png" group-title="海外频道",HBO
 http://iptv.tvfix.org/hls/hbo2.m3u8
 #EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/hbohits.png" group-title="海外频道",HBOHits
