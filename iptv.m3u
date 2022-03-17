@@ -141,7 +141,7 @@ http://iptv.tvfix.org/hls/brtv10hd.m3u8
 http://iptv.tvfix.org/hls/brtv11hd.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/stvxw.jpg" group-title="地方频道",上海新闻综合
 http://iptv.tvfix.org/hls/shxwzhhd.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/shdfys.png" group-title="地方频道",东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/shdfys.jpg" group-title="地方频道",东方影视
 http://iptv.tvfix.org/hls/shdfyshd.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/shanghaidushi.jpg" group-title="地方频道",上海都市
 http://iptv.tvfix.org/hls/shdspdhd.m3u8
@@ -277,7 +277,7 @@ http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/channelv.jpg" group-title="海外频道",Channel V
 http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/Xing_Kong_Wei_Shi.jpg" group-title="海外频道",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/xingkongweishi.jpg" group-title="海外频道",星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/starsports.png" group-title="海外频道",Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
