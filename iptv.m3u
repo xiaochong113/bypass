@@ -277,7 +277,7 @@ http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/channelv.jpg" group-title="海外频道",Channel V
 http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/Xing_Kong_Wei_Shi.jpg" group-title="海外频道",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/xingkongweishi.jpg" group-title="海外频道",星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/starsports.png" group-title="海外频道",Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
