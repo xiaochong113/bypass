@@ -154,7 +154,7 @@ http://iptv.tvfix.org/hls/shdycjhd.m3u8
 http://iptv.tvfix.org/hls/wxtyhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/TSTV/skysportsf1.jpg" group-title="特色频道",天空体育F1
 https://live.offland.xyz/live/HmmDqeAZ/wCnUktYP.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/TSTV/skysportspremierleague.jpg.jpg" group-title="特色频道",天空体育F1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/TSTV/skysportspremierleague.jpg" group-title="特色频道",天空体育足球
 https://live.offland.xyz/live/kdzjmySB/lDAtbJBz.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/TSTV/jisuqiche.jpg" group-title="特色频道",极速汽车
 http://iptv.tvfix.org/hls/jsqchd.m3u8
