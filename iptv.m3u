@@ -39,6 +39,8 @@ http://iptv.tvfix.org/hls/cctv15hd.m3u8
 http://iptv.tvfix.org/hls/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv17.jpg" group-title="央视高清",CCTV-17农村农业
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cetv1.jpg" group-title="央视高清",中国教育1台
+http://iptv.tvfix.org/hls/cetv1hd.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cgtn.jpg" group-title="央视高清",CGTN-国际电视台
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-id=891" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cgtndocumentary.jpg" group-title="央视高清",CGTN-纪录
@@ -118,8 +120,6 @@ http://iptv.tvfix.org/hls/jxhd.m3u8
 http://iptv.tvfix.org/hls/jlhd.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/sichuanws.png" group-title="卫视高清",四川卫视
 http://iptv.tvfix.org/hls/schd.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/cetv1.png" group-title="卫视高清",中国教育1台
-http://iptv.tvfix.org/hls/cetv1hd.m3u8
 
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/DFTV/btv2.jpg" group-title="地方频道",北京文艺
 http://iptv.tvfix.org/hls/brtv2hd.m3u8
