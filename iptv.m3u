@@ -69,7 +69,7 @@ http://iptv.tvfix.org/hls/cctvtqhd.m3u8
 http://iptv.tvfix.org/hls/cctvfyyyhd.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctvlgs.jpg" group-title="央视高清",CCTV-老故事
 http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctvzxs.jpg" group-title="央视高清",CCTV-中学生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctvzxs.png" group-title="央视高清",CCTV-中学生
 http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/hunantv.jpg" group-title="卫视高清",湖南卫视
