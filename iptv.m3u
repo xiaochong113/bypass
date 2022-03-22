@@ -78,7 +78,7 @@ http://iptv.tvfix.org/hls/hunanhd.m3u8
 http://iptv.tvfix.org/hls/zjhd.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/jiangsutv.jpg" group-title="卫视高清",江苏卫视
 http://iptv.tvfix.org/hls/jshd.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/beijingtv.jpg" group-title="卫视高清",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/beijingws.png" group-title="卫视高清",北京卫视
 http://iptv.tvfix.org/hls/brtv1hd.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/dongfang.jpg" group-title="卫视高清",东方卫视
 http://iptv.tvfix.org/hls/dfhd.m3u8
