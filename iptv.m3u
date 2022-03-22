@@ -72,9 +72,9 @@ http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/ind
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctvzxs.png" group-title="央视高清",CCTV-中学生
 http://39.136.66.36/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/hunantv.jpg" group-title="卫视高清",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/hunanws.png" group-title="卫视高清",湖南卫视
 http://iptv.tvfix.org/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/zhejiangtv.jpg" group-title="卫视高清",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/zhejiangws.png" group-title="卫视高清",浙江卫视
 http://iptv.tvfix.org/hls/zjhd.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/WSTV/jiangsutv.jpg" group-title="卫视高清",江苏卫视
 http://iptv.tvfix.org/hls/jshd.m3u8
