@@ -229,6 +229,10 @@ http://iptv.tvfix.org/hls/viutv6.m3u8
 http://iptv.tvfix.org/hls/rthk31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/rhk32.jpg" group-title="海外频道",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/nhkworld.png" group-title="海外频道",NHKWorld
+http://iptv.tvfix.org/hls/nhkworld2.m3u8
+#EXTINF:-1 tvg-id="7110" tvg-name="NHKWorldPremium" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/nhkworldp.png" group-title="海外频道",NHKWorldPremium
+http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/hkguojicaijing.png" group-title="海外频道",香港国际财经台
 http://iptv.tvfix.org/hls/hkibc.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/GWTV/hongkongkai.png" group-title="海外频道",香港开电视
