@@ -3,9 +3,9 @@ DOMAIN,dmm.emby.wtf
 DOMAIN,dmm.emby.gg
 DOMAIN,lei.emby.gg
 # NAME: 韩国直播域名
-;DOMAIN-SUFFIX,pandalive.co.kr
-;DOMAIN-SUFFIX,neolive.kr
-;DOMAIN-SUFFIX,popkontv.kr
-;DOMAIN-SUFFIX,popkontv.com
-;DOMAIN-SUFFIX,afreecatv.com
-;DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,pandalive.co.kr
+DOMAIN-SUFFIX,neolive.kr
+DOMAIN-SUFFIX,popkontv.kr
+DOMAIN-SUFFIX,popkontv.com
+DOMAIN-SUFFIX,afreecatv.com
+DOMAIN-SUFFIX,kr
