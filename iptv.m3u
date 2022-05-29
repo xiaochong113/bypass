@@ -183,52 +183,51 @@ http://live.tvfix.org/hls/xdmtv.m3u8
 http://live.tvfix.org/hls/cnn.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/BBCWORLDNEWSASIA.png" group-title="新闻频道",BBC新闻
 http://live.tvfix.org/hls/bbcnews.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台",CTI中天新聞HD
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/cti-news-live.jpg",CTI中天新聞HD
 https://ytb.52sf.ga/live.m3u8?c=1
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="" group-title="新闻频道",半岛新闻-英语
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/aljazeera.png" group-title="新闻频道",半岛新闻-英语
 https://ytb.52sf.ga/live.m3u8?c=2
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="" group-title="新闻频道",民視新聞
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/ftvnews.png" group-title="新闻频道",民視新聞
 https://ytb.52sf.ga/live.m3u8?c=3
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="" group-title="新闻频道",TVBS新聞
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/tvbs-news-live.jpg" group-title="新闻频道",TVBS新聞
 https://ytb.52sf.ga/live.m3u8?c=4
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="" group-title="新闻频道",台視新聞
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/ttvtv.jpg" group-title="新闻频道",台視新聞
 https://ytb.52sf.ga/live.m3u8?c=5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻频道",NBC News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/nbc-news.png" group-title="新闻频道",NBC News
 https://ytb.52sf.ga/live.m3u8?c=6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻频道",ABC News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/abc-news.png" group-title="新闻频道",ABC News
 https://ytb.52sf.ga/live.m3u8?c=7
-#EXTINF:-1 tvg-id="7176" tvg-name="" tvg-logo="中视新闻" group-title="新闻频道",中視新聞
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/ctv-news.png" group-title="新闻频道",中視新聞
 https://ytb.52sf.ga/live.m3u8?c=8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="" group-title="新闻频道",東森新聞
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/ebc-news.jpg" group-title="新闻频道",東森新聞
 https://ytb.52sf.ga/live.m3u8?c=9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻频道",三立海外
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/set-haiwai.jpg" group-title="新闻频道",三立海外
 https://ytb.52sf.ga/live.m3u8?c=10
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="" group-title="新闻频道", Sky News
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/sky-news.jpg" group-title="新闻频道", Sky News
 https://ytb.52sf.ga/live.m3u8?c=11
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="" group-title="新闻频道",東森財經
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/ebccj.png" group-title="新闻频道",東森財經
 https://ytb.52sf.ga/live.m3u8?c=12
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="" group-title="新闻频道",FRANCE 24
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/france24.png" group-title="新闻频道",FRANCE 24
 https://ytb.52sf.ga/live.m3u8?c=13
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="" group-title="新闻频道",Bloomberg Global Financial News
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/BloombergTV.png" group-title="新闻频道",Bloomberg Global Financial News
 https://ytb.52sf.ga/live.m3u8?c=14
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="" group-title="新闻频道",寰宇新聞
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/Global-news.jpg" group-title="新闻频道",寰宇新聞
 https://ytb.52sf.ga/live.m3u8?c=15
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻频道",ANN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/ann-news.png" group-title="新闻频道",ANN News
 https://ytb.52sf.ga/live.m3u8?c=16
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻频道",三立 iNEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/set-inews.jpg" group-title="新闻频道",三立 iNEWS
 https://ytb.52sf.ga/live.m3u8?c=17
-#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="" group-title="新闻频道",DW News
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/dw-news.png" group-title="新闻频道",DW News
 https://ytb.52sf.ga/live.m3u8?c=18
-#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="" group-title="新闻频道",TVBS
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/tvbs-news.png" group-title="新闻频道",TVBS
 https://ytb.52sf.ga/live.m3u8?c=20
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="" group-title="新闻频道",华视新闻
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/cts-news.jpg" group-title="新闻频道",华视新闻
 https://ytb.52sf.ga/live.m3u8?c=21
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="" group-title="新闻频道",鳳凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/fenghuangzw.png" group-title="新闻频道",鳳凰中文
 https://ytb.52sf.ga/live.m3u8?c=22
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="" group-title="新闻频道",鳳凰新聞
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/fenghuangzx.png" group-title="新闻频道",鳳凰新聞
 https://ytb.52sf.ga/live.m3u8?c=23
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻频道",鏡新聞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/m-news.jpg" group-title="新闻频道",鏡新聞
 https://ytb.52sf.ga/live.m3u8?c=24
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新闻频道",東森新聞全球速報
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTVTV/ebcnewslive.jpg" group-title="新闻频道",東森新聞全球速報
 https://ytb.52sf.ga/live.m3u8?c=25
