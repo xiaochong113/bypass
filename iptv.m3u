@@ -6,7 +6,7 @@ https://php.52sf.ga/jmstvbf.php?id=488
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv1.jpg" group-title="央视高清",CCTV-1HK综合
 http://live.tvfix.org/hls/cctv1hdhk.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv2.jpg" group-title="央视高清",CCTV-2财经
-http://live.tvfix.org/hls/cctv2hd.m3u8
+https://php.52sf.ga/jmstvbf.php?id=061
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv3.jpg" group-title="央视高清",CCTV-3综艺
 http://live.tvfix.org/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv4.jpg" group-title="央视高清",CCTV-4中文国际
