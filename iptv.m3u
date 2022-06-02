@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv4k.jpg" group-title="央视高清",CCTV-4K
-http://live.tvfix.org/hls/cctv4k.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv1.jpg" group-title="央视高清",CCTV-1综合
 https://php.52sf.ga/jmstvhf.php?id=124
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv2.jpg" group-title="央视高清",CCTV-2财经
@@ -38,10 +36,6 @@ https://php.52sf.ga/jmstvhf.php?id=224
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/CCTV/cctv17.jpg" group-title="央视高清",CCTV-17农村农业
 https://php.52sf.ga/jmstvsx.php?id=200
 
-#EXTINF:-1 tvg-id="7106" tvg-name="CNNHeadlineNews" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/cnn-live.jpg" group-title="新闻频道",CNN新闻
-http://live.tvfix.org/hls/cnn.m3u8
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/BBCWORLDNEWSASIA.png" group-title="新闻频道",BBC新闻
-http://live.tvfix.org/hls/bbcnews.m3u8
 #EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/cti-news-live.jpg",CTI中天新聞HD
 https://ytb.52sf.ga/live.m3u8?c=1
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/aljazeera.png" group-title="新闻频道",半岛新闻-英语
