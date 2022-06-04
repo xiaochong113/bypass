@@ -72,8 +72,6 @@ https://ytb.52sf.ga/live.m3u8?c=17
 https://ytb.52sf.ga/live.m3u8?c=18
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/tvbs-news.png" group-title="新闻频道",TVBS
 https://ytb.52sf.ga/live.m3u8?c=20
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/cts-news.jpg" group-title="新闻频道",华视新闻
-https://ytb.52sf.ga/live.m3u8?c=21
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/fenghuangzw.png" group-title="新闻频道",鳳凰中文
 https://ytb.52sf.ga/live.m3u8?c=22
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/m-news.jpg" group-title="新闻频道",鏡新聞
@@ -108,5 +106,13 @@ https://ytb.52sf.ga/live.m3u8?c=43
 https://ytb.52sf.ga/live.m3u8?c=44
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/gtv-drama.jpg" group-title="新闻频道",GTV-Drama1
 https://ytb.52sf.ga/live.m3u8?c=45
+#EXTINF:-1,梯子台
+https://ytb.52sf.ga/live.m3u8?c=49
+#EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/msxq.png",美食星球
+https://ytb.52sf.ga/live.m3u8?c=50
+#EXTINF:-1 tvg-id="	6172" tvg-name="亚洲旅游台" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/yzlyt.png",亞洲旅遊台
+https://ytb.52sf.ga/live.m3u8?c=52
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/jtdst.jpg",靖天電視台
+https://ytb.52sf.ga/live.m3u8?c=53
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/fenghuangzx.png" group-title="新闻频道",鳳凰新聞
 https://ytb.52sf.ga/live.m3u8?c=54
