@@ -78,8 +78,8 @@ https://ytb.52sf.ga/live.m3u8?c=22
 https://ytb.52sf.ga/live.m3u8?c=24
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/ebcnewslive.jpg" group-title="新闻频道",東森新聞全球速報
 https://ytb.52sf.ga/live.m3u8?c=25
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/englishspeech.jpg" group-title="新闻频道",ENGLISH SPEECH
-#https://ytb.52sf.ga/live.m3u8?c=26
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/englishspeech.jpg" group-title="新闻频道",ENGLISH SPEECH
+https://ytb.52sf.ga/live.m3u8?c=26
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/abcnews-au.png" group-title="新闻频道",ABC News-AU
 https://ytb.52sf.ga/live.m3u8?c=27
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/xiaochong113/bypass/master/icons/NEWSTV/mbc-news.png" group-title="新闻频道",MBC News
