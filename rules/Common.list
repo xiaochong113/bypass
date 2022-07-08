@@ -4,8 +4,6 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,heroku.com
-DOMAIN-SUFFIX,18comic.vip
-DOMAIN-SUFFIX,18comic.org
 # NAME: IPTV
 DOMAIN,live.tvfix.org
 DOMAIN-SUFFIX,tvfix.org
