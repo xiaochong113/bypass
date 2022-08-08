@@ -7,8 +7,6 @@ DOMAIN-SUFFIX,heroku.com
 # NAME: IPTV
 DOMAIN,live.tvfix.org
 DOMAIN-SUFFIX,tvfix.org
-DOMAIN,live.52sf.ga
-DOMAIN-SUFFIX,52sf.ga
 DOMAIN-SUFFIX,plex.tv
 # NAME: 18漫
 DOMAIN-SUFFIX,18comic.vip
