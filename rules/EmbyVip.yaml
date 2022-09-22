@@ -1,2 +1,13 @@
 payload:
-  - DOMAIN-SUFFIX,emby.gg
+  - DOMAIN,a-g.emby.gg
+  - DOMAIN,a-ac.emby.gg
+  - DOMAIN,a-v1.emby.gg
+  - DOMAIN,a-v1b.emby.gg
+  - DOMAIN,a-v2.emby.gg
+  - DOMAIN,a-v2b.emby.gg
+  - DOMAIN,a-v3.emby.gg
+  - DOMAIN,a-v3b.emby.gg
+  - DOMAIN,stl.emby.gg
+  - DOMAIN,a-v4.emby.gg
+  - DOMAIN,a-v4b.emby.gg
+
