@@ -1,9 +1,4 @@
 payload:
-# NAME: EmbyDMM
-  - DOMAIN,dmm.emby.wtf
-  - DOMAIN,dmm.emby.gg
-  - DOMAIN,lei.emby.gg
-  - DOMAIN,stl.emby.gg
 # NAME: 韩国直播域名
   - DOMAIN-SUFFIX,pandalive.co.kr
   - DOMAIN-SUFFIX,neolive.kr
