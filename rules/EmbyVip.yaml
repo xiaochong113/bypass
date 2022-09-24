@@ -1,5 +1,5 @@
 payload:
-# NAME: Emby
+# NAME: EmbyZJB
   - DOMAIN,a-g.emby.gg
   - DOMAIN,a-ac.emby.gg
   - DOMAIN,a-v1.emby.gg
@@ -13,3 +13,5 @@ payload:
   - DOMAIN,dmm.emby.gg
   - DOMAIN,lei.emby.gg
   - DOMAIN,stl.emby.gg
+# NAME: Emby
+  - DOMAIN-SUFFIX,emby.gg
