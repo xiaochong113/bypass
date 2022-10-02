@@ -15,3 +15,12 @@ payload:
   - DOMAIN,stl.emby.gg
 # NAME: Emby
   - DOMAIN-SUFFIX,emby.gg
+# NAME: 18comic
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
