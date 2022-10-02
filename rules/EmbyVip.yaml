@@ -15,12 +15,12 @@ payload:
   - DOMAIN,stl.emby.gg
 # NAME: Emby
   - DOMAIN-SUFFIX,emby.gg
-# NAME: 18comic
-  - DOMAIN-SUFFIX,
-  - DOMAIN-SUFFIX,
-  - DOMAIN-SUFFIX,
-  - DOMAIN-SUFFIX,
-  - DOMAIN-SUFFIX,
-  - DOMAIN-SUFFIX,
+# NAME: R18comic
+  - DOMAIN-SUFFIX,pphm.xyz
+  - DOMAIN-SUFFIX,beiaduo.org
+  - DOMAIN-SUFFIX,beiaduo.com
+  - DOMAIN-SUFFIX,picacomic.com
+  - DOMAIN-SUFFIX,18comic.vip
+  - DOMAIN-SUFFIX,18comic.org
   - DOMAIN-SUFFIX,
   - DOMAIN-SUFFIX,
