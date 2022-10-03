@@ -1,4 +1,9 @@
 payload:
+# NAME: EmbyPorn
+  - DOMAIN,dmm.emby.wtf
+  - DOMAIN,dmm.emby.gg
+  - DOMAIN,lei.emby.gg
+  - DOMAIN,stl.emby.gg
 # NAME: Adult Video
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,t66y.com
