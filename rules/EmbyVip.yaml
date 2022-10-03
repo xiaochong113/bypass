@@ -8,8 +8,6 @@ payload:
   - DOMAIN,a-v2b.emby.gg
   - DOMAIN,a-v4.emby.gg
   - DOMAIN,a-v4b.emby.gg
-# NAME: Emby
-  - DOMAIN-SUFFIX,emby.gg
 # NAME: R18comic
   - DOMAIN-SUFFIX,pphm.xyz
   - DOMAIN-SUFFIX,beiaduo.org
