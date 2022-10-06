@@ -14,6 +14,3 @@ payload:
   - DOMAIN,a-v4.emby.gg
   - DOMAIN,a-v4b.emby.gg
   - DOMAIN-SUFFIX,emby.gg
-# NAME: Adult Video
-  - DOMAIN-SUFFIX,jable.tv
-  - DOMAIN-SUFFIX,t66y.com
