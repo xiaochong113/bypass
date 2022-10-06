@@ -1,5 +1,5 @@
 payload:
 # NAME: 广告拦截
   - DOMAIN,adx.hupu.com
-  - DOMAIN-SUF
+  - DOMAIN-SUF,adx-api.hupu.com
   - DOMAIN-SUFFIX,speed.cloudflare.com
