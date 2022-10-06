@@ -1,5 +1,7 @@
 payload:
 # NAME: 广告拦截
+  - DOMAIN,safebrowsing.googleapis.com
+  - DOMAIN,safebrowsing.urlsec.qq.com
   - DOMAIN,adx.hupu.com
-  - DOMAIN-SUF,adx-api.hupu.com
-  - DOMAIN-SUFFIX,speed.cloudflare.com
+  - DOMAIN,adx-api.hupu.com
+  - DOMAIN,goblin.hupu.com
