@@ -13,13 +13,3 @@ payload:
 # NAME: Adult Video
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,t66y.com
-# NAME: EmbyZJB
-  - DOMAIN,a-g.emby.gg
-  - DOMAIN,a-ac.emby.gg
-  - DOMAIN,a-v1.emby.gg
-  - DOMAIN,a-v1b.emby.gg
-  - DOMAIN,a-v2.emby.gg
-  - DOMAIN,a-v2b.emby.gg
-  - DOMAIN,a-v4.emby.gg
-  - DOMAIN,a-v4b.emby.gg
-  - DOMAIN,gia-g.emby.gg
