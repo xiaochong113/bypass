@@ -8,4 +8,5 @@ payload:
   - DOMAIN,f-v2b.emby.gg
   - DOMAIN,f-v4.emby.gg
   - DOMAIN,f-v4b.emby.gg
+  - DOMAIN,a-h.emby.gg
   - DOMAIN-SUFFIX,emby.gg
