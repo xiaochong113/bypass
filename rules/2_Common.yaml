@@ -11,7 +11,8 @@ payload:
   - DOMAIN-SUFFIX,rouman5.com
   - DOMAIN-SUFFIX,manhuadb.com
 # NAME: Adult Video
-  - DOMAIN-KEYWORD,roucdn
+  - DOMAIN-KEYWORD,r5.roucdn
+  - DOMAIN-KEYWORD,v.roucdn
   - DOMAIN-KEYWORD,v.rn
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,t66y.com
