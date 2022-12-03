@@ -11,11 +11,12 @@ payload:
   - DOMAIN-SUFFIX,rouman5.com
   - DOMAIN-SUFFIX,manhuadb.com
 # NAME: Adult Video
+  - DOMAIN-KEYWORD,roucdn
+  - DOMAIN-KEYWORD,v.rn
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,madou.club
   - DOMAIN-SUFFIX,rou.video
   - DOMAIN-SUFFIX,rouv05.xyz
   - DOMAIN-SUFFIX,t4.wncdn.ru
-  - DOMAIN-KEYWORD,roucdn
-  - DOMAIN-KEYWORD,v.rn
+  - DOMAIN-SUFFIX,rou.pub
