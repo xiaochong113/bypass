@@ -14,3 +14,6 @@ payload:
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,madou.club
+  - DOMAIN-SUFFIX,rou.video
+  - DOMAIN-KEYWORD,roucdn
+  - DOMAIN-KEYWORD,v.rn
