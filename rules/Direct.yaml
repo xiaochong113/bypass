@@ -1,12 +1,4 @@
 payload:
 # NAME: EmbyZJB
-  - DOMAIN,f-g.emby.gg
-  - DOMAIN,f-ac.emby.gg
-  - DOMAIN,f-v1.emby.gg
-  - DOMAIN,f-v1b.emby.gg
-  - DOMAIN,f-v2.emby.gg
-  - DOMAIN,f-v2b.emby.gg
-  - DOMAIN,f-v4.emby.gg
-  - DOMAIN,f-v4b.emby.gg
   - DOMAIN,a-h.emby.gg
   - DOMAIN-SUFFIX,emby.gg
