@@ -1,4 +1,3 @@
 payload:
 # NAME: EmbyZJB
-  - DOMAIN,a-h.emby.gg
   - DOMAIN-SUFFIX,emby.gg
