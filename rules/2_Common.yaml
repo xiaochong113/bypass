@@ -10,6 +10,8 @@ payload:
   - DOMAIN-SUFFIX,rm01.xyz
   - DOMAIN-SUFFIX,rouman5.com
   - DOMAIN-SUFFIX,manhuadb.com
+  - DOMAIN-SUFFIX,hanman.cyou
+  - DOMAIN-SUFFIX,didamanhua.com
 # NAME: Adult Video
   - DOMAIN-KEYWORD,r5.roucdn
   - DOMAIN-KEYWORD,v.roucdn
