@@ -1,17 +1,3 @@
 payload:
 # NAME: 广告拦截
   - DOMAIN,safebrowsing.googleapis.com
-  - DOMAIN,safebrowsing.urlsec.qq.com
-  - DOMAIN,adx.hupu.com
-  - DOMAIN,adx-api.hupu.com
-  - DOMAIN,goblin.hupu.com
-# > vivo
-  - DOMAIN,adlog.vivo.com.cn
-  - DOMAIN,adreq.vivo.com.cn
-  - DOMAIN,ads-marketing-vivofs.vivo.com.cn
-  - DOMAIN,adsdk.vivo.com.cn
-  - DOMAIN,adsstatic.vivo.com.cn
-  - DOMAIN,adxlog.vivo.com.cn
-  - DOMAIN,vcardsdkservice.vivo.com.cn
-  - DOMAIN-KEYWORD,stsdk.vivo.com.cn
-  - DOMAIN-KEYWORD,stsdk.vivoglobal.com
