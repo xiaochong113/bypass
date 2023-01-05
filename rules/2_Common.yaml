@@ -13,6 +13,9 @@ payload:
   - DOMAIN-SUFFIX,hanman.cyou
   - DOMAIN-SUFFIX,didamanhua.com
   - DOMAIN-SUFFIX,vomicmh.com
+  - DOMAIN-SUFFIX,manwa.me
+  - DOMAIN-SUFFIX,manwa2.site
+  - DOMAIN-SUFFIX,manwa3.site
 # NAME: Adult Video
   - DOMAIN-KEYWORD,r5.roucdn
   - DOMAIN-KEYWORD,v.roucdn
