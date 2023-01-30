@@ -1,5 +1,4 @@
 payload:
-# NAME: EmbyZJB
 # 本地/局域网地址
   - DOMAIN-SUFFIX,ip6-localhost
   - DOMAIN-SUFFIX,ip6-loopback
@@ -17,3 +16,6 @@ payload:
   - IP-CIDR6,fc00::/7,no-resolve
   - IP-CIDR6,fe80::/10,no-resolve
   - IP-CIDR6,fd00::/8,no-resolve
+# NAME: 直连
+  - DOMAIN,www.3diyibanzhu.cc
+  - DOMAIN,www.01bzvip3.cc
