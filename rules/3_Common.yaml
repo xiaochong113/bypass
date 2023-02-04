@@ -1,6 +1,8 @@
 payload:
 # NAME: Emby
   - DOMAIN,a-g.emby.gg
+  - DOMAIN,a-u.emby.gg
+  - DOMAIN,a-n.emby.gg
   - DOMAIN,a-ac.emby.gg
   - DOMAIN,a-v1.emby.gg
   - DOMAIN,a-v1b.emby.gg
