@@ -6,3 +6,6 @@ payload:
   - DOMAIN,adx.hupu.com
   - DOMAIN,adx-api.hupu.com
   - DOMAIN,goblin.hupu.com
+# > 广告联盟
+  - DOMAIN,adlog.tagtic.cn
+  - DOMAIN,g1.tagtic.cn
