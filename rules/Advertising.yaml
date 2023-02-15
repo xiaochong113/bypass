@@ -9,3 +9,105 @@ payload:
 # > 广告联盟
   - DOMAIN,adlog.tagtic.cn
   - DOMAIN,g1.tagtic.cn
+# 包含常用应用的各种去广告规则
+# Alibaba
+  - DOMAIN-SUFFIX,acjs.aliyun.com
+  - DOMAIN-SUFFIX,adash-c.m.taobao.com
+  - DOMAIN-SUFFIX,adash-c.ut.taobao.com
+  - DOMAIN-SUFFIX,adashx4yt.m.taobao.com
+  - DOMAIN-SUFFIX,adashxgc.ut.taobao.com
+  - DOMAIN-SUFFIX,afp.alicdn.com
+  - DOMAIN-SUFFIX,ai.m.taobao.com
+  - DOMAIN-SUFFIX,alipaylog.com
+  - DOMAIN-SUFFIX,atanx.alicdn.com
+  - DOMAIN-SUFFIX,atanx2.alicdn.com
+  - DOMAIN-SUFFIX,fav.simba.taobao.com
+  - DOMAIN-SUFFIX,g.click.taobao.com
+  - DOMAIN-SUFFIX,g.tbcdn.cn
+  - DOMAIN-SUFFIX,gma.alicdn.com
+  - DOMAIN-SUFFIX,gtmsdd.alicdn.com
+  - DOMAIN-SUFFIX,hydra.alibaba.com
+  - DOMAIN-SUFFIX,m.simba.taobao.com
+  - DOMAIN-SUFFIX,pindao.huoban.taobao.com
+  - DOMAIN-SUFFIX,re.m.taobao.com
+  - DOMAIN-SUFFIX,redirect.simba.taobao.com
+  - DOMAIN-SUFFIX,rj.m.taobao.com
+  - DOMAIN-SUFFIX,sdkinit.taobao.com
+  - DOMAIN-SUFFIX,show.re.taobao.com
+  - DOMAIN-SUFFIX,simaba.m.taobao.com
+  - DOMAIN-SUFFIX,simaba.taobao.com
+  - DOMAIN-SUFFIX,srd.simba.taobao.com
+  - DOMAIN-SUFFIX,strip.taobaocdn.com
+  - DOMAIN-SUFFIX,tns.simba.taobao.com
+  - DOMAIN-SUFFIX,tyh.taobao.com
+  - DOMAIN-SUFFIX,userimg.qunar.com
+  - DOMAIN-SUFFIX,yiliao.hupan.com
+# ByteDance 头条抖音
+  - DOMAIN-SUFFIX,ad.toutiao.com
+  - DOMAIN-SUFFIX,dsp.toutiao.com
+  - DOMAIN-SUFFIX,ic.snssdk.com
+  - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,nativeapp.toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
+  - DOMAIN-SUFFIX,partner.toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,sm.toutiao.com
+# JD
+  - DOMAIN-SUFFIX,ads.union.jd.com
+  - DOMAIN-SUFFIX,c-nfa.jd.com
+  - DOMAIN-SUFFIX,cps.360buy.com
+  - DOMAIN-SUFFIX,img-x.jd.com
+  - DOMAIN-SUFFIX,jrclick.jd.com
+  - DOMAIN-SUFFIX,jzt.jd.com
+  - DOMAIN-SUFFIX,policy.jd.com
+  - DOMAIN-SUFFIX,stat.m.jd.com
+# QQ
+  - DOMAIN-KEYWORD,omgmtaw
+  - DOMAIN,adsmind.apdcdn.tc.qq.com
+  - DOMAIN,adsmind.gdtimg.com
+  - DOMAIN,adsmind.tc.qq.com
+  - DOMAIN,pgdt.gtimg.cn
+  - DOMAIN,pgdt.gtimg.com
+  - DOMAIN,pgdt.ugdtimg.com
+  - DOMAIN,splashqqlive.gtimg.com
+  - DOMAIN,wa.gtimg.com
+  - DOMAIN,wxsnsdy.wxs.qq.com
+  - DOMAIN,wxsnsdythumb.wxs.qq.com
+  - DOMAIN-SUFFIX,act.qq.com
+  - DOMAIN-SUFFIX,ad.qun.qq.com
+  - DOMAIN-SUFFIX,adsfile.qq.com
+  - DOMAIN-SUFFIX,bugly.qq.com
+  - DOMAIN-SUFFIX,buluo.qq.com
+  - DOMAIN-SUFFIX,e.qq.com
+  - DOMAIN-SUFFIX,gdt.qq.com
+  - DOMAIN-SUFFIX,l.qq.com
+  - DOMAIN-SUFFIX,monitor.qq.com
+  - DOMAIN-SUFFIX,pingma.qq.com
+  - DOMAIN-SUFFIX,pingtcss.qq.com
+  - DOMAIN-SUFFIX,report.qq.com
+  - DOMAIN-SUFFIX,tajs.qq.com
+  - DOMAIN-SUFFIX,tcss.qq.com
+  - DOMAIN-SUFFIX,uu.qq.com
+# Zhihu
+  - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+# Ads in Video apps 
+# Douyu
+  - DOMAIN-SUFFIX,dotcounter.douyutv.com
+# Others ads in Video apps
+  - DOMAIN-SUFFIX,acsystem.wasu.tv
+  - DOMAIN-SUFFIX,ads.cdn.tvb.com
+  - DOMAIN-SUFFIX,ads.wasu.tv
+  - DOMAIN-SUFFIX,afp.wasu.tv
+  - DOMAIN-SUFFIX,c.algovid.com
+  - DOMAIN-SUFFIX,gg.jtertp.com
+  - DOMAIN-SUFFIX,gridsum-vd.cntv.cn
+  - DOMAIN-SUFFIX,kwflvcdn.000dn.com
+  - DOMAIN-SUFFIX,logstat.t.sfht.com
+  - DOMAIN-SUFFIX,match.rtbidder.net
+  - DOMAIN-SUFFIX,n-st.vip.com
+  - DOMAIN-SUFFIX,pop.uusee.com
+  - DOMAIN-SUFFIX,static.duoshuo.com
+  - DOMAIN-SUFFIX,t.cr-nielsen.com
+  - DOMAIN-SUFFIX,terren.cntv.cn
