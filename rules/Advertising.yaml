@@ -78,6 +78,8 @@ payload:
   - DOMAIN,wxsnsdythumb.wxs.qq.com
   - DOMAIN-SUFFIX,act.qq.com
   - DOMAIN-SUFFIX,ad.qun.qq.com
+  - DOMAIN-SUFFIX,ad.qq.com
+  - DOMAIN-SUFFIX,adx.qq.com
   - DOMAIN-SUFFIX,adsfile.qq.com
   - DOMAIN-SUFFIX,bugly.qq.com
   - DOMAIN-SUFFIX,buluo.qq.com
