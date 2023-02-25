@@ -2,7 +2,6 @@ payload:
 # Advertising
 # > General
   - DOMAIN-KEYWORD,adservice
-  - DOMAIN,safebrowsing.googleapis.com
 # > Hupu
   - DOMAIN,adx.hupu.com
   - DOMAIN,adx-api.hupu.com
@@ -181,9 +180,6 @@ payload:
   - DOMAIN,track.tiara.daum.net
   - DOMAIN,track.tiara.kakao.com
 # > Google
-  - DOMAIN-SUFFIX,googletagmanager.com
-  - DOMAIN-SUFFIX,google-analytics.com
-  - DOMAIN,safebrowsing.googleapis.com
 # > GozenData
 # https://www.v2ex.com/t/772523
   - DOMAIN-SUFFIX,gozendata.com
