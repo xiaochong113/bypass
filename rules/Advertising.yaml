@@ -9,6 +9,7 @@ payload:
 # > 广告联盟
   - DOMAIN,adlog.tagtic.cn
   - DOMAIN,g1.tagtic.cn
+  - DOMAIN-SUFFIX,ad-scope.com.cn
 # 包含常用应用的各种去广告规则
 
 # ByteDance 头条抖音
