@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,adukwai.com
   - DOMAIN,open.e.kuaishou.com
+  - DOMAIN,adsdk.vivo.com.cn
 # 包含常用应用的各种去广告规则
 
 # ByteDance 头条抖音
