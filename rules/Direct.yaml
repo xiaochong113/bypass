@@ -2,12 +2,15 @@ payload:
 # 本地/局域网地址
 # NAME: 直连
   - DOMAIN-SUFFIX,hdyp.net
-  - DOMAIN,c-u.emby.gg
-  - DOMAIN,c-g.emby.gg
-  - DOMAIN,c-n.emby.gg
-  - DOMAIN,c-v1b.emby.gg
-  - DOMAIN,c-h.emby.gg
-  - DOMAIN,cm.bighippo.tv
+  - DOMAIN,v1.emby.to
+  - DOMAIN,v1b.emby.to
+  - DOMAIN,v2.emby.to
+  - DOMAIN,v4.emby.to
+  - DOMAIN,v4b.emby.to
+  - DOMAIN,ac.emby.to
+  - DOMAIN,g.emby.to
+  - DOMAIN,u.emby.to
+  - DOMAIN,n.emby.to
+  - DOMAIN,h.emby.to
   - DOMAIN,h.bighippo.tv
   - DOMAIN,g.bighippo.tv
-  - DOMAIN,n.bighippo.tv
