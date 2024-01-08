@@ -7,6 +7,7 @@ payload:
   - DOMAIN-KEYWORD,speedtest
 # NAME: R18
   - DOMAIN-SUFFIX,pphm.xyz
+  - DOMAIN-SUFFIX,madou.club/
   - DOMAIN-SUFFIX,beiaduo.org
   - DOMAIN-SUFFIX,beiaduo.com
   - DOMAIN-SUFFIX,picacomic.com
@@ -15,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,wnacg.top
   - DOMAIN-SUFFIX,rm01.xyz
   - DOMAIN-SUFFIX,rouman5.com
+  - DOMAIN-SUFFIX,rou.video
   - DOMAIN-SUFFIX,manhuadb.com
   - DOMAIN-SUFFIX,hanman.cyou
   - DOMAIN-SUFFIX,hhmh.cyou
