@@ -2,6 +2,7 @@ payload:
 # 本地/局域网地址
 # NAME: 直连
   - DOMAIN-SUFFIX,hdyp.net
+  - DOMAIN-SUFFIX,jmsooo.com
   - DOMAIN,v1.emby.to
   - DOMAIN,v1b.emby.to
   - DOMAIN,g.emby.to
