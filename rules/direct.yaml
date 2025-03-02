@@ -3,3 +3,5 @@ payload:
 # NAME: 直连
   - DOMAIN,immconvert.com
   - DOMAIN,api.immtel.co
+  - DOMAIN,g.once.im
+  - DOMAIN,sgtv.ii00.cc
