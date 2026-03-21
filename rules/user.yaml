@@ -1,12 +1,7 @@
 payload:
 # 本地/局域网地址
-# NAME: 直连
-  - DOMAIN-SUFFIX,hdyp.net
-  - DOMAIN-SUFFIX,jmsooo.com
-  - DOMAIN,v1.emby.to
+# NAME: 影视剧服
   - DOMAIN,gtest.emby.to
-  - DOMAIN,g.emby.to
-  - DOMAIN,h.emby.to
   - DOMAIN,wgtv.ii00.cc
   - DOMAIN,wptv.ii00.cc
   - DOMAIN,music.mefun.vip
