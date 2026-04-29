@@ -1,10 +1,7 @@
 payload:
 # 本地/局域网地址
 # NAME: 影视剧服
-  - DOMAIN,gtest.emby.to
-  - DOMAIN,wgtv.ii00.cc
-  - DOMAIN,wptv.ii00.cc
-  - DOMAIN,music.mefun.vip
+  - DOMAIN,c.emby.to
   - DOMAIN,c1.zdz.plus
   - DOMAIN,c2.zdz.plus
   - DOMAIN,l.poloemby.xyz
